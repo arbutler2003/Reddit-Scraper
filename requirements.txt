@@ -1,2 +1,3 @@
 praw
+prawcore
 python-dotenv
